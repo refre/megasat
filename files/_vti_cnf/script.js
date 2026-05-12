@@ -1,0 +1,10 @@
+vti_encoding:SR|utf8-nl
+vti_author:SR|REFRE-PORTABLE\\Johnny
+vti_modifiedby:SR|REFRE-PORTABLE\\Johnny
+vti_timelastmodified:TR|26 Jan 2015 20:20:15 -0000
+vti_timecreated:TR|26 Jan 2015 20:19:20 -0000
+vti_extenderversion:SR|12.0.0.0
+vti_backlinkinfo:VX|contact.html sujet_en.html mentions_nl.html sujet.html home_de.html contact_de.html sujet_nl.html mentions.html mentions_de.html home_en.html contact_en.html contact_nl.htm sujet_de.html index.html mentions_en.html home_nl.html
+vti_cacheddtm:TX|26 Jan 2015 20:20:14 -0000
+vti_filesize:IR|156824
+vti_nexttolasttimemodified:TR|26 Jan 2015 20:19:20 -0000
